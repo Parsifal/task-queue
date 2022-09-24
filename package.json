@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Parsifal/task-queue#readme",
   "devDependencies": {
-    "@types/node": "^18.7.13"
+    "@types/node": "^18.7.20"
   }
 }
